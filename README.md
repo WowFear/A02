@@ -115,4 +115,3 @@ git pull
 Git Official Website: https://git-scm.com/  
 Visual Studio Code Official Website: https://code.visualstudio.com/  
 GitHub Documentation: https://docs.github.com/  
-Course PowerPoint presentations
